@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 import java.util.regex.Matcher;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class GermanStyleDateCheckerTests {
+public class GermanStyleDateCheckerTest {
     @Test
     public void testSimpleValidDate() {
         checkRegex("23.03.1967");
