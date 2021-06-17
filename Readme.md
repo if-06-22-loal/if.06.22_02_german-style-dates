@@ -10,5 +10,5 @@ can also be omitted.
 ## Required Tasks
 1. Clone the repository
 1. Make all unit tests pass
-1. Commit regularly (not only with your final solution)
+1. Commit after every unit test passing
 1. Push your repository
